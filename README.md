@@ -52,12 +52,18 @@ This picture was taken on the balcony in the daylight. Not under direct sunlight
 2. Put an apple in the middle of the sheet
 ![take a picture](images/9.png)
 3. Set the phone as shown on the scheme
-   ![scheme 2](images/sch2.png) 
+    
+    ![scheme 2](images/sch2.png) 
    - Open the camera app on your mobile phone
    - Put the phone above the object at the 17 cm height
    - Focus (tap on the object on the screen) 
 4. Take a picture of the apple
-![take a picture](images/10.png)
+    
+    <p align="center">
+    <a href="images/10.png">
+    <img alt="take a picture" src="images/10.png" width="50%" />
+    </a>
+    </p>
 5. Using the directions listed above, beautify this apple.
 
 | Lightroom | Photoshop |
