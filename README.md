@@ -82,7 +82,7 @@ I know, you want to get a high-quality picture and you are a pro, So here are so
 
 ## _Preparation 2_
 This picture was taken on the balcony in the daylight. Not under direct sunlight.
-1. Take three sheets of paper and place them in a way lit place
+1. Take three sheets of paper and place them in a well lit place
 2. Put an apple in the middle of the sheet
   
     <p align="center">
